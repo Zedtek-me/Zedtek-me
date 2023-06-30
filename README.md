@@ -4,5 +4,5 @@ I am a passionate software developer, and an intuitive type, for the matter. Hen
 of several concepts, with the aim of demystifying the concepts, thereby gaining thorough understanding of such concepts
 and how to properly approach related problems.
 
-By the way, if anything, I am open for project collaborations, as well as job opportunities, at the moment.
+By the way, if anything, I am open for project collaborations.
 That's all for now; have a nice time exploring my repos!
