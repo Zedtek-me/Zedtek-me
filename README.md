@@ -1,11 +1,21 @@
-Senior Software Engineer with 4+ years of professional experience across Fintech and HealthTech industries.
+## 👋 Hi, I'm Zechariah Adebayo  
+**Backend & Full-Stack Engineer | FinTech • Python • Node.js • React**
 
-I have built and contributed to solid fintech products, as well as healthtech ERP solutions which have yielded the businesses verifiable MRR and ARR in their respective industries.
-I have also shipped scalable solutions with cutting edge technologies across various stacks.
-However, my expertise revolve around python, Javascript and DevOps stack(e.g, Django, FastAPI, Express, Docker, Nginx, React, etc).
+🚀 I design and build reliable systems that power fintech and e-commerce products.  
+Right now, I'm focused on **[NearCash](https://github.com/Zedtek-me/NearCash-API)** — a geolocation-driven POS platform connecting vendors and clients across Africa.
 
-When neccessary, I integrate LLMs into products for customized experience.
+### 🧰 Tech Toolbox
+- **Backend:** Python (Django / Graphene GraphQL), Node.js (Express)
+- **Frontend:** React • Tailwind CSS • Webpack
+- **Data:** PostgreSQL (+PostGIS) • MongoDB • Redis
+- **DevOps:** Docker • Nginx • GitHub Actions • AWS EC2 / Contabo Servers
+- **APIs:** GraphQL • REST
 
-I'm open to project collaboration and Full-time role also.
+### 🔭 Current Focus
+- Launching **NearCash MVP**
+- Exploring Golang & distributed system patterns
 
-P.S: I'm currently building *NearCash* -- a solution that's tailored to cash availability in Nigeria, by leveraging existing POS businesses across Nigeria.
+### 🌍 Let’s Connect
+[LinkedIn](https://linkedin.com/in/zechariah-adebayo) | [GitHub](https://github.com/Zedtek-me) | Email — [zechariahadebayo42@gmail.com]
+
+> “Build with clarity. Learn with depth. Ship with intent.”
