@@ -5,10 +5,10 @@
 Right now, I'm focused on **[NearCash](https://github.com/Zedtek-me/NearCash-API)** — a geolocation-driven POS platform connecting vendors and clients across Africa.
 
 ### 🧰 Tech Toolbox
-- **Backend:** Python (Django / Graphene GraphQL), Node.js (Express)
+- **Backend:** Python (Django / Graphene GraphQL), Node.js/TypeScript (Express)
 - **Frontend:** React • Tailwind CSS • Webpack
 - **Data:** PostgreSQL (+PostGIS) • MongoDB • Redis
-- **DevOps:** Docker • Nginx • GitHub Actions • AWS EC2 / Contabo Servers
+- **DevOps:** Docker • Nginx • GitHub Actions • AWS EC2 / Contabo Servers, Kubernetes
 - **APIs:** GraphQL • REST
 
 ### 🔭 Current Focus
